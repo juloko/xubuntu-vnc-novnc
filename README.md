@@ -44,6 +44,10 @@ Additional components and applications can be easily added by the user because *
   
 Contains resources for building [accetto/xubuntu-vnc-novnc-chromium][this-docker-xubuntu-vnc-novnc-chromium] images with the open-source [Chromium][chromium] web browser.
 
+#### [xubuntu-vnc-novnc-chrome][this-github-xubuntu-vnc-novnc-chrome]
+  
+Contains resources for building [accetto/xubuntu-vnc-novnc-chrome][this-docker-xubuntu-vnc-novnc-chrome] images with the current [Google Chrome][Chrome] web browser.
+
 #### [xubuntu-vnc-novnc-firefox][this-github-xubuntu-vnc-novnc-firefox]
   
 Contains resources for building [accetto/xubuntu-vnc-novnc-firefox][this-docker-xubuntu-vnc-novnc-firefox] images with the current [Firefox Quantum][firefox] web browser.
@@ -100,6 +104,9 @@ Credit goes to all the countless people and companies, who contribute to open so
 [this-github-xubuntu-vnc-novnc-chromium]: https://github.com/accetto/xubuntu-vnc-novnc/tree/master/docker/xubuntu-vnc-novnc-chromium/
 [this-docker-xubuntu-vnc-novnc-chromium]: https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-chromium/
 
+[this-github-xubuntu-vnc-novnc-chrome]: https://github.com/accetto/xubuntu-vnc-novnc/tree/master/docker/xubuntu-vnc-novnc-chrome/
+[this-docker-xubuntu-vnc-novnc-chrome]: https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-chrome/
+
 [this-github-xubuntu-vnc-novnc-firefox]: https://github.com/accetto/xubuntu-vnc-novnc/tree/master/docker/xubuntu-vnc-novnc-firefox/
 [this-docker-xubuntu-vnc-novnc-firefox]: https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-firefox/
 
@@ -120,6 +127,7 @@ Credit goes to all the countless people and companies, who contribute to open so
 [inkscape]: https://inkscape.org/
 [jq]: https://stedolan.github.io/jq/
 [firefox]: https://www.mozilla.org
+[chrome]: https://www.google.com/chrome/
 [git]: https://git-scm.com/
 [novnc]: https://github.com/kanaka/noVNC
 [tigervnc]: http://tigervnc.org
