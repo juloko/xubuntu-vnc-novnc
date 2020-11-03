@@ -36,7 +36,7 @@ The images are streamlined and simplified versions of my other images [accetto/u
 
 Several variations are available, including the one supporting overriding both the container user and the user group.
 
-These base images already include commonly used utilities **ping**, **wget**, **zip**, **unzip**, **sudo**, [curl][curl], [git][git] and also the current version of [jq][jq] JSON processor.
+These base images already include commonly used utilities **ping**, **wget**, **zip**, **unzip**, **sudo**, [wmctrl][wmctrl], [curl][curl], [git][git] and also the current version of [jq][jq] JSON processor.
 
 Additional components and applications can be easily added by the user because **sudo** is supported.
 
@@ -129,6 +129,7 @@ Credit goes to all the countless people and companies, who contribute to open so
 [firefox]: https://www.mozilla.org
 [chrome]: https://www.google.com/chrome/
 [git]: https://git-scm.com/
+[wmctrl]: https://linux.die.net/man/1/wmctrl/
 [novnc]: https://github.com/kanaka/noVNC
 [tigervnc]: http://tigervnc.org
 [xfce]: http://www.xfce.org
